@@ -5,11 +5,16 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=github_dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pdaambrosio&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+
 <code>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 </code>
 
 <!--
