@@ -1,4 +1,5 @@
 ### Vulcan salute 👋
+:vulcan_salute:
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pdaambrosio.visitor-badge)
