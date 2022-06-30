@@ -5,14 +5,14 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=github_dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<code>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-</code>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="30" width="42" alt="docker logo">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo">
+</div>
 
 <!--
 **pdaambrosio/pdaambrosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +28,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
