@@ -14,25 +14,9 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo">
 </div>
 
-<!--
-**pdaambrosio/pdaambrosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ###
 
 <br clear="both">
-
-<img href="https://github.com/pdaambrosio/pdaambrosio/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pdaambrosio/pdaambrosio/55e351ef8c813df99ee7087f5b1b8ffb8dca6e76/snake.svg" alt="Snake animation" />
 
 ###
