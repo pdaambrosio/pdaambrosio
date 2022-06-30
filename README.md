@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/pdaambrosio/pdaambrosio/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/pdaambrosio/pdaambrosio/blob/output/snake.svg" alt="Snake animation" />
 
 ###
