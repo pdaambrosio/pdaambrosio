@@ -1,9 +1,11 @@
 ### Vulcan salute :vulcan_salute:
 
+<div align="left">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pdaambrosio.visitor-badge)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=github_dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <a href="https://app.daily.dev/pdajgs"><img src="https://api.daily.dev/devcards/7d026506b1f94058bde44268f42fefd9.png?r=l5g" width="300" alt="Paulo Daniel's Dev Card"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=github_dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <a href="https://app.daily.dev/pdajgs"><img src="https://api.daily.dev/devcards/7d026506b1f94058bde44268f42fefd9.png?r=l5g" width="200" alt="Paulo Daniel's Dev Card"/></a>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
