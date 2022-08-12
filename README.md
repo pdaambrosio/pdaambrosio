@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pdaambrosio.visitor-badge)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=github_dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <a href="https://app.daily.dev/pdajgs"><img src="https://api.daily.dev/devcards/7d026506b1f94058bde44268f42fefd9.png?r=9dv" width="200" alt="Paulo Daniel's Dev Card"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=github_dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="200" alt="Paulo Daniel's Dev Card"/></a>
 </div>
 
 <div align="left">
