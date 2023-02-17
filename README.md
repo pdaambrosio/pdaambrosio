@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pdaambrosio.visitor-badge)
 
 <div align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="200" alt="Paulo Daniel's Dev Card"/></a>
+<a href="https://app.daily.dev/pdajgs"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="200" alt="Paulo Daniel's Dev Card"/></a>
 </div>
 
 <div align="center">
