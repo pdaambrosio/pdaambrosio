@@ -1,5 +1,5 @@
 ### Vulcan salute :vulcan_salute:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pdaambrosio.visitor-badge)
+![](https://komarev.com/ghpvc/?username=pdaambrosio&color=red)
 
 <div align="center">
 <a href="https://app.daily.dev/pdajgs"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="200" alt="Paulo Daniel's Dev Card"/></a>
