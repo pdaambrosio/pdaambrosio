@@ -20,3 +20,6 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/pdaambrosio/pdaambrosio/55e351ef8c813df99ee7087f5b1b8ffb8dca6e76/snake.svg" alt="Snake animation" />
 </div>
+
+
+![PdaAmbrosio's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=monokai&show_icons=true)
