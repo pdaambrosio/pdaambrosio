@@ -39,4 +39,9 @@
 
 ## ⚙️ &nbsp; GitHub Analytics
 
-![PdaAmbrosio's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=monokai&show_icons=true)
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&count_private=true&theme=dark"/>
+</p>
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pdaambrosio&theme=dark"/>
+</p>
