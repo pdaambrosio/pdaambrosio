@@ -1,25 +1,42 @@
-### Vulcan salute :vulcan_salute:
+## Vulcan salute :vulcan_salute:
+
 ![](https://komarev.com/ghpvc/?username=pdaambrosio&color=red)
+
+[![Linkedin](https://img.shields.io/badge/-paulo_daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-ambrosio/)[![Gmail](https://img.shields.io/badge/-paulo_daniel-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pda.ambrosio@gmail.com)[![Github](https://img.shields.io/github/followers/pdaambrosio?label=Follow&style=social)](https://github.com/pdaambrosio)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+Architect;Developer+Enthusiast;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://app.daily.dev/pdajgs"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="200" alt="Paulo Daniel's Dev Card"/></a>
 </div>
 
-<div align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img align="center" alt="linux" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="30" width="42" alt="docker logo">
-  <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo">
-  <img align="center" alt="arduino" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="git" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+## 🛠 &nbsp; Languages and Tools :
 
-<div align="center">
+<p align="left">
+<img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img width="50" height="50" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
+<img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
+<img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/>
+<img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
+<img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
+<img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
+<img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+<img width="50" height="50" alt="mongodb" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" />
+<img width="50" height="50" alt="bash" src="./icons/bash-original.svg" />
+<img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50">
+<br />
+<br />
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/pdaambrosio/pdaambrosio/55e351ef8c813df99ee7087f5b1b8ffb8dca6e76/snake.svg" alt="Snake animation" />
 </div>
 
+## ⚙️ &nbsp; GitHub Analytics
 
 ![PdaAmbrosio's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdaambrosio&theme=monokai&show_icons=true)
