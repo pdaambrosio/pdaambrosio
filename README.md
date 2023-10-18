@@ -4,16 +4,11 @@
 
 [![Linkedin](https://img.shields.io/badge/-paulo_daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-ambrosio/)[![Gmail](https://img.shields.io/badge/-paulo_daniel-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pda.ambrosio@gmail.com)[![Github](https://img.shields.io/github/followers/pdaambrosio?label=Follow&style=social)](https://github.com/pdaambrosio)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+Architect;Developer+Enthusiast;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
-
 <div align="center">
 <a href="https://app.daily.dev/pdajgs"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="200" alt="Paulo Daniel's Dev Card"/></a>
 </div>
-
-## 🛠 &nbsp; Languages and Tools :
-
-<p align="left">
+<br />
+<p align="center">
 <img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
 <img width="50" height="50" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 <img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
@@ -30,14 +25,11 @@
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50">
 <br />
-<br />
-
 <br clear="both">
 <img src="https://raw.githubusercontent.com/pdaambrosio/pdaambrosio/55e351ef8c813df99ee7087f5b1b8ffb8dca6e76/snake.svg" alt="Snake animation" />
 </div>
 
 ## ⚙️ &nbsp; GitHub Analytics
-
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&count_private=true&theme=dark"/>
 </p>
