@@ -31,8 +31,8 @@
 
 ## ⚙️ &nbsp; GitHub Analytics
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&count_private=true&theme=dark"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&count_private=true&theme=transparent"/>
 </p>
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pdaambrosio&theme=dark"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pdaambrosio&theme=transparent"/>
 </p>
