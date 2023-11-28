@@ -28,11 +28,3 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/pdaambrosio/pdaambrosio/55e351ef8c813df99ee7087f5b1b8ffb8dca6e76/snake.svg" alt="Snake animation" />
 </div>
-
-## ⚙️ &nbsp; GitHub Analytics
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdaambrosio&count_private=true&theme=dark"/>
-</p>
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pdaambrosio&theme=dark"/>
-</p>
