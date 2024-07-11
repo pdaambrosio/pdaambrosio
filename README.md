@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-paulo_daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-ambrosio/)[![Gmail](https://img.shields.io/badge/-paulo_daniel-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pda.ambrosio@gmail.com)[![Github](https://img.shields.io/github/followers/pdaambrosio?label=Follow&style=social)](https://github.com/pdaambrosio)
 
 <div align="center">
-<a href="https://app.daily.dev/pdajgs"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="200" alt="Paulo Daniel's Dev Card"/></a>
+<a href="https://app.daily.dev/pdajgs"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="300" alt="Paulo Daniel's Dev Card"/></a>
 </div>
 <br />
 <p align="center">
