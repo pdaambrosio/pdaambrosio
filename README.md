@@ -13,7 +13,7 @@
 <img width="50" height="50" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 <img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
 <img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/>
+<img src="./icons/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
 <img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
