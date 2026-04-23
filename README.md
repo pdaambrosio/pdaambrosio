@@ -7,24 +7,24 @@
 <div align="center">
 <a href="https://app.daily.dev/pdajgs"><img src="https://github.com/pdaambrosio/pdaambrosio/blob/main/devcard.svg" width="300" alt="Paulo Daniel's Dev Card"/></a>
 </div>
-<br />
+<br/>
 <p align="center">
 <img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
 <img width="50" height="50" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
-<img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
-<img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg" />
+<img width="50" height="50" alt="python" src="./icons/icons8-python.svg"/>
+<img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg"/>
 <img src="./icons/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
-<img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
+<img width="50" height="50" alt="aws" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" /> 
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img width="50" height="50" alt="mongodb" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" />
 <img width="50" height="50" alt="bash" src="./icons/bash-original.svg" />
 <img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50">
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50">
-<br />
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
+<br/>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/pdaambrosio/pdaambrosio/55e351ef8c813df99ee7087f5b1b8ffb8dca6e76/snake.svg" alt="Snake animation" />
 </div>
