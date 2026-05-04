@@ -21,6 +21,8 @@
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" alt="Ansible" />
   <img src="https://www.svgrepo.com/show/331370/docker.svg" width="40" alt="Docker" />
   <img src="./icons/icons8-jenkins.svg" width="40" alt="Jenkins" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" alt="k8s" />
+  
 </p>
 
 **Languages & Frameworks**
