@@ -1,5 +1,11 @@
 # 🖖 Live Long and Prosper
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Engineer+%26+Infrastructure+Specialist;Cloud+Architect+%7C+DevOps+Enthusiast;AI+%26+Autonomous+Agents+Explorer;Building+Scalable+%26+Resilient+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 👋 Welcome to my GitHub!
 
 I'm **Paulo Daniel Ambrosio**, a backend engineer and infrastructure specialist passionate about building scalable systems, automating complex processes, and exploring the frontiers of AI and cloud technologies.
@@ -25,6 +31,12 @@ I'm **Paulo Daniel Ambrosio**, a backend engineer and infrastructure specialist 
 
 ### 📈 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=pdaambrosio&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=pdaambrosio&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📉 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pdaambrosio&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -100,9 +112,9 @@ I'm **Paulo Daniel Ambrosio**, a backend engineer and infrastructure specialist 
 | Backend Development | ⭐⭐⭐⭐⭐ |
 | Infrastructure & DevOps | ⭐⭐⭐⭐⭐ |
 | Cloud Architecture | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐☆☆ |
 | Microservices | ⭐⭐⭐⭐⭐ |
-| API Design (REST/GraphQL) | ⭐⭐⭐☆☆ |
+| Database Design | ⭐⭐⭐⭐☆ |
+| API Design (REST/GraphQL) | ⭐⭐⭐⭐☆ |
 | Frontend Development | ⭐⭐⭐☆☆ |
 
 ---
@@ -120,7 +132,7 @@ I'm **Paulo Daniel Ambrosio**, a backend engineer and infrastructure specialist 
 
 ### Continuous Learning
 - Regularly complete courses on cloud platforms, AI/ML, and advanced backend patterns
-- Active learner on [platforms]
+- Active learner on Udemy, Coursera, and official cloud provider training tracks (AWS, GCP, Azure, Hauwei)
 
 ---
 
