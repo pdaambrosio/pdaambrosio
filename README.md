@@ -109,6 +109,7 @@ I'm **Paulo Daniel Ambrosio**, a backend engineer and infrastructure specialist 
 
 | Category | Proficiency |
 |----------|-------------|
+| Artificial Intelligence (AI) | ⭐⭐⭐☆☆ |
 | Backend Development | ⭐⭐⭐⭐⭐ |
 | Infrastructure & DevOps | ⭐⭐⭐⭐⭐ |
 | Cloud Architecture | ⭐⭐⭐⭐⭐ |
